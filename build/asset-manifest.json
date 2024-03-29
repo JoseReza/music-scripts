@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/music-scripts/build/static/css/main.c39d7437.css",
+    "main.js": "/music-scripts/build/static/js/main.819ba506.js",
+    "static/js/453.f1568d95.chunk.js": "/music-scripts/build/static/js/453.f1568d95.chunk.js",
+    "index.html": "/music-scripts/build/index.html",
+    "static/media/icon.svg": "/music-scripts/build/static/media/icon.fadea290d7e3856b928dd11fc3d73e14.svg",
+    "main.c39d7437.css.map": "/music-scripts/build/static/css/main.c39d7437.css.map",
+    "main.819ba506.js.map": "/music-scripts/build/static/js/main.819ba506.js.map",
+    "453.f1568d95.chunk.js.map": "/music-scripts/build/static/js/453.f1568d95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c39d7437.css",
+    "static/js/main.819ba506.js"
+  ]
+}

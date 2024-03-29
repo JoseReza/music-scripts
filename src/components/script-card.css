@@ -1,0 +1,17 @@
+.Scripts-card {
+    margin: 1.5rem;
+    border-radius: 5px;
+    color: white;
+    padding: 1.5rem;
+    max-width: 12rem;
+    min-width: 12rem;
+    min-height: 15rem;
+    max-height: 15rem;
+    text-align: center;
+    align-items: center;
+    float: left;
+    background-color: #444;
+    border-radius: 5px;
+    border-bottom: solid 6px rgb(33, 150, 243);
+    border-right: solid 6px rgb(33, 150, 243);
+}
